@@ -49,7 +49,7 @@ Coming soon
 
 </details>
 
-<details>
+<details open>
 <summary><b>🇨🇳 中文</b></summary>
 
 <h3 align="center">从信号到智能 — 通信系统的 AI 化工程</h3>
