@@ -1,9 +1,3 @@
-<p align="center">
-  <img alt="Comm-AI.tech" src="https://comm-ai.tech/static/images/logo-full.png" width="480">
-</p>
-
----
-
 <details open>
 <summary><b>🇬🇧 English</b></summary>
 
